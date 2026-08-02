@@ -1,0 +1,46 @@
+[SwitchyOmega Conditions]
+; Require: ZeroOmega >= 2.3.2
+; Date: 2026/8/2
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.github.com
+*.google.com
+copilot.microsoft.com
+*.chatgpt.com
+*.grok.com
+*.carvana.com
+*.niceduck.cloud
+*.niceduck.io
+*.vivaldi.com
+*.typora.io
+*.notion.com
+*.notion.so
+*.openai.com
+*.anthropic.com
+*.claude.ai
+*.carmax.com
+*.carvana.com
+*.chromium.org
+*.brave.com
+*.intercom.io
+*.anthropic.com
+*.stripe.com
+*.usefathom.com
+*.intercom.io
+*.intercomcdn.com
+*.sentry.io
+*.servd.host
+*.googleapis.com
+*.gstatic.com
+*.googleusercontent.com
+*.googleapis.com
+*.oaistatic.com
+*.oaiusercontent.com
+*.auth0.com
+*.cloudflare.com
+*.intercom.io
+*.intercomcdn.com
+*.featuregates.org
+*.statsig.com
+*.cdn.openai.com
+*.google.com.hk
